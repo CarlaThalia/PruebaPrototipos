@@ -1,4 +1,6 @@
-﻿
+//      UNIVERSIDAD CENTRAL DEL ECUADOR
+//      PROGRAMA REALIZADO POR THALÍA VEGA
+
 using System;
 using System.Collections.Generic;
 using System.Drawing;
