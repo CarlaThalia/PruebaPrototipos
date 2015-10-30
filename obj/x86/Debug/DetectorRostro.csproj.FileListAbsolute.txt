@@ -1,0 +1,13 @@
+C:\Users\Thaly Vega\Desktop\DetectorRostro\bin\Debug\Emgu.CV.xml
+C:\Users\Thaly Vega\Desktop\DetectorRostro\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Thaly Vega\Desktop\DetectorRostro\bin\Debug\Emgu.Util.xml
+C:\Users\Thaly Vega\Desktop\DetectorRostro\obj\x86\Debug\DetectorRostro.csprojResolveAssemblyReference.cache
+C:\Users\Thaly Vega\Desktop\DetectorRostro\obj\x86\Debug\DetectorRostro.csproj.GenerateResource.Cache
+C:\Users\Thaly Vega\Desktop\DetectorRostro\obj\x86\Debug\DetectorRostro.Properties.Resources.resources
+C:\Users\Thaly Vega\Desktop\DetectorRostro\bin\Debug\DetectorRostro.exe
+C:\Users\Thaly Vega\Desktop\DetectorRostro\bin\Debug\DetectorRostro.pdb
+C:\Users\Thaly Vega\Desktop\DetectorRostro\obj\x86\Debug\DetectorRostro.exe
+C:\Users\Thaly Vega\Desktop\DetectorRostro\obj\x86\Debug\DetectorRostro.pdb
+C:\Users\Thaly Vega\Desktop\DetectorRostro\obj\x86\Debug\DetectorRostro.FrmPrincipal.resources
+C:\Users\Daniel\Documents\GitHub\DetectorRostro\obj\x86\Debug\DetectorRostro.exe
+C:\Users\Daniel\Documents\GitHub\DetectorRostro\obj\x86\Debug\DetectorRostro.pdb
